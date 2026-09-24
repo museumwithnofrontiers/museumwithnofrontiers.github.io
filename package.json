@@ -1,0 +1,13 @@
+{
+  "name": "museumwithnofrontiers.github.io",
+  "private": true,
+  "description": "The Museum With No Frontiers organization site",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node --test"
+  }
+}

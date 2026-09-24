@@ -1,0 +1,327 @@
+{
+  "owner": "museumwithnofrontiers",
+  "sites": [
+    {
+      "slug": "baroqueart",
+      "title": "Discover Baroque Art",
+      "kind": "standalone",
+      "url": "https://museumwithnofrontiers.github.io/baroqueart/",
+      "repository": "https://github.com/museumwithnofrontiers/baroqueart"
+    },
+    {
+      "slug": "islamicart",
+      "title": "Discover Islamic Art",
+      "kind": "standalone",
+      "url": "https://museumwithnofrontiers.github.io/islamicart/",
+      "repository": "https://github.com/museumwithnofrontiers/islamicart"
+    },
+    {
+      "slug": "sharinghistory",
+      "title": "Sharing History",
+      "kind": "standalone",
+      "url": "https://museumwithnofrontiers.github.io/sharinghistory/",
+      "repository": "https://github.com/museumwithnofrontiers/sharinghistory"
+    },
+    {
+      "slug": "arts-in-dialogue",
+      "title": "Arts in Dialogue",
+      "kind": "exhibition",
+      "url": "https://museumwithnofrontiers.github.io/arts-in-dialogue/",
+      "repository": "https://github.com/museumwithnofrontiers/arts-in-dialogue"
+    },
+    {
+      "slug": "the-hijaz-railway",
+      "title": "The Hijaz Railway",
+      "kind": "exhibition",
+      "url": "https://museumwithnofrontiers.github.io/the-hijaz-railway/",
+      "repository": "https://github.com/museumwithnofrontiers/the-hijaz-railway"
+    },
+    {
+      "slug": "the-table-is-set",
+      "title": "The Table Is Set",
+      "kind": "exhibition",
+      "url": "https://museumwithnofrontiers.github.io/the-table-is-set/",
+      "repository": "https://github.com/museumwithnofrontiers/the-table-is-set"
+    },
+    {
+      "slug": "the-use-of-colours-in-art",
+      "title": "The Use of Colours in Art",
+      "kind": "exhibition",
+      "url": "https://museumwithnofrontiers.github.io/the-use-of-colours-in-art/",
+      "repository": "https://github.com/museumwithnofrontiers/the-use-of-colours-in-art"
+    },
+    {
+      "slug": "water-in-islam",
+      "title": "Water in Islam",
+      "kind": "exhibition",
+      "url": "https://museumwithnofrontiers.github.io/water-in-islam/",
+      "repository": "https://github.com/museumwithnofrontiers/water-in-islam"
+    },
+    {
+      "slug": "with-brush-and-qalam",
+      "title": "With Brush and Qalam",
+      "kind": "exhibition",
+      "url": "https://museumwithnofrontiers.github.io/with-brush-and-qalam/",
+      "repository": "https://github.com/museumwithnofrontiers/with-brush-and-qalam"
+    },
+    {
+      "slug": "amulets",
+      "title": "Amulets and Talismans",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/amulets/",
+      "repository": "https://github.com/museumwithnofrontiers/amulets"
+    },
+    {
+      "slug": "archaeology",
+      "title": "Archaeological Objects",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/archaeology/",
+      "repository": "https://github.com/museumwithnofrontiers/archaeology"
+    },
+    {
+      "slug": "architectural-elements",
+      "title": "Architectural Elements",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/architectural-elements/",
+      "repository": "https://github.com/museumwithnofrontiers/architectural-elements"
+    },
+    {
+      "slug": "arms-armoury",
+      "title": "Arms and Armoury",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/arms-armoury/",
+      "repository": "https://github.com/museumwithnofrontiers/arms-armoury"
+    },
+    {
+      "slug": "calligraphy",
+      "title": "Calligraphy",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/calligraphy/",
+      "repository": "https://github.com/museumwithnofrontiers/calligraphy"
+    },
+    {
+      "slug": "carpets",
+      "title": "Carpets",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/carpets/",
+      "repository": "https://github.com/museumwithnofrontiers/carpets"
+    },
+    {
+      "slug": "ceramics",
+      "title": "Ceramics",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/ceramics/",
+      "repository": "https://github.com/museumwithnofrontiers/ceramics"
+    },
+    {
+      "slug": "clothing",
+      "title": "Clothing and Costume",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/clothing/",
+      "repository": "https://github.com/museumwithnofrontiers/clothing"
+    },
+    {
+      "slug": "coins-medals",
+      "title": "Coins and Medals",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/coins-medals/",
+      "repository": "https://github.com/museumwithnofrontiers/coins-medals"
+    },
+    {
+      "slug": "communication",
+      "title": "Communication and Transportation",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/communication/",
+      "repository": "https://github.com/museumwithnofrontiers/communication"
+    },
+    {
+      "slug": "funerary-objects",
+      "title": "Funerary Objects",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/funerary-objects/",
+      "repository": "https://github.com/museumwithnofrontiers/funerary-objects"
+    },
+    {
+      "slug": "woodwork",
+      "title": "Furniture and Woodwork",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/woodwork/",
+      "repository": "https://github.com/museumwithnofrontiers/woodwork"
+    },
+    {
+      "slug": "glass",
+      "title": "Glass",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/glass/",
+      "repository": "https://github.com/museumwithnofrontiers/glass"
+    },
+    {
+      "slug": "gold-silver",
+      "title": "Gold and Silver",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/gold-silver/",
+      "repository": "https://github.com/museumwithnofrontiers/gold-silver"
+    },
+    {
+      "slug": "historical-cars",
+      "title": "Historical Cars",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/historical-cars/",
+      "repository": "https://github.com/museumwithnofrontiers/historical-cars"
+    },
+    {
+      "slug": "ivory",
+      "title": "Ivory",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/ivory/",
+      "repository": "https://github.com/museumwithnofrontiers/ivory"
+    },
+    {
+      "slug": "jewellery",
+      "title": "Jewellery",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/jewellery/",
+      "repository": "https://github.com/museumwithnofrontiers/jewellery"
+    },
+    {
+      "slug": "landscapes",
+      "title": "Landscapes",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/landscapes/",
+      "repository": "https://github.com/museumwithnofrontiers/landscapes"
+    },
+    {
+      "slug": "leatherworks",
+      "title": "Leatherwork",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/leatherworks/",
+      "repository": "https://github.com/museumwithnofrontiers/leatherworks"
+    },
+    {
+      "slug": "manuscripts",
+      "title": "Manuscripts",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/manuscripts/",
+      "repository": "https://github.com/museumwithnofrontiers/manuscripts"
+    },
+    {
+      "slug": "metalwork",
+      "title": "Metalwork",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/metalwork/",
+      "repository": "https://github.com/museumwithnofrontiers/metalwork"
+    },
+    {
+      "slug": "mosaics",
+      "title": "Mosaics",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/mosaics/",
+      "repository": "https://github.com/museumwithnofrontiers/mosaics"
+    },
+    {
+      "slug": "musical-instruments",
+      "title": "Musical Instruments",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/musical-instruments/",
+      "repository": "https://github.com/museumwithnofrontiers/musical-instruments"
+    },
+    {
+      "slug": "paintings",
+      "title": "Paintings",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/paintings/",
+      "repository": "https://github.com/museumwithnofrontiers/paintings"
+    },
+    {
+      "slug": "photographs",
+      "title": "Photographs",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/photographs/",
+      "repository": "https://github.com/museumwithnofrontiers/photographs"
+    },
+    {
+      "slug": "porcelain",
+      "title": "Porcelain",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/porcelain/",
+      "repository": "https://github.com/museumwithnofrontiers/porcelain"
+    },
+    {
+      "slug": "portraits",
+      "title": "Portraits",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/portraits/",
+      "repository": "https://github.com/museumwithnofrontiers/portraits"
+    },
+    {
+      "slug": "precious-stones",
+      "title": "Precious Stones",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/precious-stones/",
+      "repository": "https://github.com/museumwithnofrontiers/precious-stones"
+    },
+    {
+      "slug": "prints-drawings",
+      "title": "Prints and Drawings",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/prints-drawings/",
+      "repository": "https://github.com/museumwithnofrontiers/prints-drawings"
+    },
+    {
+      "slug": "religious-life",
+      "title": "Religious Life",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/religious-life/",
+      "repository": "https://github.com/museumwithnofrontiers/religious-life"
+    },
+    {
+      "slug": "scientific-objects",
+      "title": "Scientific Objects",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/scientific-objects/",
+      "repository": "https://github.com/museumwithnofrontiers/scientific-objects"
+    },
+    {
+      "slug": "sculptures",
+      "title": "Sculptures",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/sculptures/",
+      "repository": "https://github.com/museumwithnofrontiers/sculptures"
+    },
+    {
+      "slug": "textiles",
+      "title": "Textiles",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/textiles/",
+      "repository": "https://github.com/museumwithnofrontiers/textiles"
+    },
+    {
+      "slug": "theatre",
+      "title": "Theatre",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/theatre/",
+      "repository": "https://github.com/museumwithnofrontiers/theatre"
+    },
+    {
+      "slug": "toys-games",
+      "title": "Toys and Games",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/toys-games/",
+      "repository": "https://github.com/museumwithnofrontiers/toys-games"
+    },
+    {
+      "slug": "wallpaintings",
+      "title": "Wall Paintings and Frescoes",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/wallpaintings/",
+      "repository": "https://github.com/museumwithnofrontiers/wallpaintings"
+    },
+    {
+      "slug": "weights-measures",
+      "title": "Weights and Measures",
+      "kind": "gallery",
+      "url": "https://museumwithnofrontiers.github.io/weights-measures/",
+      "repository": "https://github.com/museumwithnofrontiers/weights-measures"
+    }
+  ]
+}
