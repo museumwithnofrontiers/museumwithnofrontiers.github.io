@@ -16,6 +16,13 @@
       "repository": "https://github.com/museumwithnofrontiers/islamicart"
     },
     {
+      "slug": "galleries",
+      "title": "MWNF Galleries",
+      "kind": "standalone",
+      "url": "https://museumwithnofrontiers.github.io/galleries/",
+      "repository": "https://github.com/museumwithnofrontiers/galleries"
+    },
+    {
       "slug": "sharinghistory",
       "title": "Sharing History",
       "kind": "standalone",
