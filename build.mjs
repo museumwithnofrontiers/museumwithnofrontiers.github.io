@@ -26,6 +26,7 @@ export const GROUPS = [
   { kind: 'standalone', heading: 'Virtual museums' },
   { kind: 'exhibition', heading: 'Exhibitions' },
   { kind: 'gallery', heading: 'Galleries' },
+  { kind: 'minisite', heading: 'Virtual exhibitions' },
 ]
 
 const INTRO =
