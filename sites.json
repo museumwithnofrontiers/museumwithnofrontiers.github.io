@@ -338,6 +338,55 @@
       "repository": "https://github.com/museumwithnofrontiers/weights-measures"
     },
     {
+      "slug": "islamicart-crusader",
+      "title": "Al-Franj: the Crusaders in the Levant",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/islamicart-crusader/",
+      "repository": "https://github.com/museumwithnofrontiers/islamicart-crusader"
+    },
+    {
+      "slug": "islamicart-arabic-calligraphy",
+      "title": "Arabic Calligraphy",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/islamicart-arabic-calligraphy/",
+      "repository": "https://github.com/museumwithnofrontiers/islamicart-arabic-calligraphy"
+    },
+    {
+      "slug": "islamicart-floral",
+      "title": "Echoes of Paradise: the Garden and Flora in Islamic Art",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/islamicart-floral/",
+      "repository": "https://github.com/museumwithnofrontiers/islamicart-floral"
+    },
+    {
+      "slug": "islamicart-figural",
+      "title": "Figurative Art",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/islamicart-figural/",
+      "repository": "https://github.com/museumwithnofrontiers/islamicart-figural"
+    },
+    {
+      "slug": "islamicart-geometric",
+      "title": "Geometric Decoration",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/islamicart-geometric/",
+      "repository": "https://github.com/museumwithnofrontiers/islamicart-geometric"
+    },
+    {
+      "slug": "islamicart-mudejar-art",
+      "title": "Mudéjar Art",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/islamicart-mudejar-art/",
+      "repository": "https://github.com/museumwithnofrontiers/islamicart-mudejar-art"
+    },
+    {
+      "slug": "islamicart-pilgrimage",
+      "title": "Pilgrimage",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/islamicart-pilgrimage/",
+      "repository": "https://github.com/museumwithnofrontiers/islamicart-pilgrimage"
+    },
+    {
       "slug": "islamicart-the-abbasids",
       "title": "The Abbasids",
       "kind": "minisite",
@@ -345,11 +394,74 @@
       "repository": "https://github.com/museumwithnofrontiers/islamicart-the-abbasids"
     },
     {
+      "slug": "islamicart-the-ayyubids",
+      "title": "The Atabegs and Ayyubids",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/islamicart-the-ayyubids/",
+      "repository": "https://github.com/museumwithnofrontiers/islamicart-the-ayyubids"
+    },
+    {
+      "slug": "islamicart-fatimids",
+      "title": "The Fatimids",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/islamicart-fatimids/",
+      "repository": "https://github.com/museumwithnofrontiers/islamicart-fatimids"
+    },
+    {
+      "slug": "islamicart-the-mamluks",
+      "title": "The Mamluks",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/islamicart-the-mamluks/",
+      "repository": "https://github.com/museumwithnofrontiers/islamicart-the-mamluks"
+    },
+    {
+      "slug": "islamicart-muslim-west",
+      "title": "The Muslim West",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/islamicart-muslim-west/",
+      "repository": "https://github.com/museumwithnofrontiers/islamicart-muslim-west"
+    },
+    {
+      "slug": "islamicart-siculo-norman",
+      "title": "The Normans in Sicily",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/islamicart-siculo-norman/",
+      "repository": "https://github.com/museumwithnofrontiers/islamicart-siculo-norman"
+    },
+    {
+      "slug": "islamicart-the-ottomans",
+      "title": "The Ottomans",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/islamicart-the-ottomans/",
+      "repository": "https://github.com/museumwithnofrontiers/islamicart-the-ottomans"
+    },
+    {
       "slug": "islamicart-the-umayyads",
       "title": "The Umayyads",
       "kind": "minisite",
       "url": "https://museumwithnofrontiers.github.io/islamicart-the-umayyads/",
       "repository": "https://github.com/museumwithnofrontiers/islamicart-the-umayyads"
+    },
+    {
+      "slug": "islamicart-water",
+      "title": "Water",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/islamicart-water/",
+      "repository": "https://github.com/museumwithnofrontiers/islamicart-water"
+    },
+    {
+      "slug": "islamicart-western-influence",
+      "title": "Western Influence in Ottoman Lands",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/islamicart-western-influence/",
+      "repository": "https://github.com/museumwithnofrontiers/islamicart-western-influence"
+    },
+    {
+      "slug": "islamicart-women",
+      "title": "Women",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/islamicart-women/",
+      "repository": "https://github.com/museumwithnofrontiers/islamicart-women"
     }
   ]
 }
