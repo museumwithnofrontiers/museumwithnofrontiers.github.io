@@ -336,6 +336,20 @@
       "kind": "gallery",
       "url": "https://museumwithnofrontiers.github.io/weights-measures/",
       "repository": "https://github.com/museumwithnofrontiers/weights-measures"
+    },
+    {
+      "slug": "islamicart-the-abbasids",
+      "title": "The Abbasids",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/islamicart-the-abbasids/",
+      "repository": "https://github.com/museumwithnofrontiers/islamicart-the-abbasids"
+    },
+    {
+      "slug": "islamicart-the-umayyads",
+      "title": "The Umayyads",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/islamicart-the-umayyads/",
+      "repository": "https://github.com/museumwithnofrontiers/islamicart-the-umayyads"
     }
   ]
 }

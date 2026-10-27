@@ -16,7 +16,7 @@ const site = (slug, kind, extra = {}) => ({
 test('the committed sites.json is valid and lists every kind the page groups', () => {
   const data = validate(JSON.parse(readFileSync(new URL('../sites.json', import.meta.url), 'utf8')))
   const kinds = new Set(data.sites.map((s) => s.kind))
-  for (const kind of ['standalone', 'exhibition', 'gallery']) assert.ok(kinds.has(kind), kind)
+  for (const kind of ['standalone', 'exhibition', 'gallery', 'minisite']) assert.ok(kinds.has(kind), kind)
 })
 
 test('groups in page order, with unknown kinds last and empty groups left out', () => {
