@@ -338,6 +338,13 @@
       "repository": "https://github.com/museumwithnofrontiers/weights-measures"
     },
     {
+      "slug": "baroqueart-absolutism",
+      "title": "Absolutism",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/baroqueart-absolutism/",
+      "repository": "https://github.com/museumwithnofrontiers/baroqueart-absolutism"
+    },
+    {
       "slug": "islamicart-crusader",
       "title": "Al-Franj: the Crusaders in the Levant",
       "kind": "minisite",
@@ -352,11 +359,25 @@
       "repository": "https://github.com/museumwithnofrontiers/islamicart-arabic-calligraphy"
     },
     {
+      "slug": "baroqueart-devotion",
+      "title": "Devotion and Pilgrimage",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/baroqueart-devotion/",
+      "repository": "https://github.com/museumwithnofrontiers/baroqueart-devotion"
+    },
+    {
       "slug": "islamicart-floral",
       "title": "Echoes of Paradise: the Garden and Flora in Islamic Art",
       "kind": "minisite",
       "url": "https://museumwithnofrontiers.github.io/islamicart-floral/",
       "repository": "https://github.com/museumwithnofrontiers/islamicart-floral"
+    },
+    {
+      "slug": "baroqueart-ephemera",
+      "title": "Ephemera, Festivals and Theatrical Representation",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/baroqueart-ephemera/",
+      "repository": "https://github.com/museumwithnofrontiers/baroqueart-ephemera"
     },
     {
       "slug": "islamicart-figural",
@@ -373,6 +394,13 @@
       "repository": "https://github.com/museumwithnofrontiers/islamicart-geometric"
     },
     {
+      "slug": "baroqueart-languages-baroque",
+      "title": "Languages of Baroque",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/baroqueart-languages-baroque/",
+      "repository": "https://github.com/museumwithnofrontiers/baroqueart-languages-baroque"
+    },
+    {
       "slug": "islamicart-mudejar-art",
       "title": "Mudéjar Art",
       "kind": "minisite",
@@ -387,11 +415,32 @@
       "repository": "https://github.com/museumwithnofrontiers/islamicart-pilgrimage"
     },
     {
+      "slug": "baroqueart-reformation",
+      "title": "Reformation and Counter-Reformation",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/baroqueart-reformation/",
+      "repository": "https://github.com/museumwithnofrontiers/baroqueart-reformation"
+    },
+    {
       "slug": "islamicart-the-abbasids",
       "title": "The Abbasids",
       "kind": "minisite",
       "url": "https://museumwithnofrontiers.github.io/islamicart-the-abbasids/",
       "repository": "https://github.com/museumwithnofrontiers/islamicart-the-abbasids"
+    },
+    {
+      "slug": "baroqueart-enlightenment",
+      "title": "The Age of Enlightenment",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/baroqueart-enlightenment/",
+      "repository": "https://github.com/museumwithnofrontiers/baroqueart-enlightenment"
+    },
+    {
+      "slug": "baroqueart-bourgeoisie",
+      "title": "The Ascension of the Bourgeoisie",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/baroqueart-bourgeoisie/",
+      "repository": "https://github.com/museumwithnofrontiers/baroqueart-bourgeoisie"
     },
     {
       "slug": "islamicart-the-ayyubids",
@@ -441,6 +490,13 @@
       "kind": "minisite",
       "url": "https://museumwithnofrontiers.github.io/islamicart-the-umayyads/",
       "repository": "https://github.com/museumwithnofrontiers/islamicart-the-umayyads"
+    },
+    {
+      "slug": "baroqueart-travelling-and-exotism",
+      "title": "Travelling and Exoticism",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/baroqueart-travelling-and-exotism/",
+      "repository": "https://github.com/museumwithnofrontiers/baroqueart-travelling-and-exotism"
     },
     {
       "slug": "islamicart-water",
