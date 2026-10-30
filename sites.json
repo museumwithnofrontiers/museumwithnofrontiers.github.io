@@ -359,6 +359,20 @@
       "repository": "https://github.com/museumwithnofrontiers/islamicart-arabic-calligraphy"
     },
     {
+      "slug": "islamicart-artistic-introduction",
+      "title": "Artistic Introduction",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/islamicart-artistic-introduction/",
+      "repository": "https://github.com/museumwithnofrontiers/islamicart-artistic-introduction"
+    },
+    {
+      "slug": "sharinghistory-cities-and-urban-spaces",
+      "title": "Cities and Urban Spaces",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/sharinghistory-cities-and-urban-spaces/",
+      "repository": "https://github.com/museumwithnofrontiers/sharinghistory-cities-and-urban-spaces"
+    },
+    {
       "slug": "baroqueart-devotion",
       "title": "Devotion and Pilgrimage",
       "kind": "minisite",
@@ -371,6 +385,13 @@
       "kind": "minisite",
       "url": "https://museumwithnofrontiers.github.io/islamicart-floral/",
       "repository": "https://github.com/museumwithnofrontiers/islamicart-floral"
+    },
+    {
+      "slug": "sharinghistory-economy-and-trade",
+      "title": "Economy and Trade",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/sharinghistory-economy-and-trade/",
+      "repository": "https://github.com/museumwithnofrontiers/sharinghistory-economy-and-trade"
     },
     {
       "slug": "baroqueart-ephemera",
@@ -387,11 +408,32 @@
       "repository": "https://github.com/museumwithnofrontiers/islamicart-figural"
     },
     {
+      "slug": "sharinghistory-fine-and-applied-arts",
+      "title": "Fine and Applied Arts",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/sharinghistory-fine-and-applied-arts/",
+      "repository": "https://github.com/museumwithnofrontiers/sharinghistory-fine-and-applied-arts"
+    },
+    {
       "slug": "islamicart-geometric",
       "title": "Geometric Decoration",
       "kind": "minisite",
       "url": "https://museumwithnofrontiers.github.io/islamicart-geometric/",
       "repository": "https://github.com/museumwithnofrontiers/islamicart-geometric"
+    },
+    {
+      "slug": "sharinghistory-great-inventions-of-the-19th-century",
+      "title": "Great Inventions of the 19th Century",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/sharinghistory-great-inventions-of-the-19th-century/",
+      "repository": "https://github.com/museumwithnofrontiers/sharinghistory-great-inventions-of-the-19th-century"
+    },
+    {
+      "slug": "sharinghistory-international-exhibitions",
+      "title": "International Exhibitions",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/sharinghistory-international-exhibitions/",
+      "repository": "https://github.com/museumwithnofrontiers/sharinghistory-international-exhibitions"
     },
     {
       "slug": "baroqueart-languages-baroque",
@@ -401,11 +443,25 @@
       "repository": "https://github.com/museumwithnofrontiers/baroqueart-languages-baroque"
     },
     {
+      "slug": "sharinghistory-migrations",
+      "title": "Migrations",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/sharinghistory-migrations/",
+      "repository": "https://github.com/museumwithnofrontiers/sharinghistory-migrations"
+    },
+    {
       "slug": "islamicart-mudejar-art",
       "title": "Mudéjar Art",
       "kind": "minisite",
       "url": "https://museumwithnofrontiers.github.io/islamicart-mudejar-art/",
       "repository": "https://github.com/museumwithnofrontiers/islamicart-mudejar-art"
+    },
+    {
+      "slug": "sharinghistory-music-literature-dance-and-fashion",
+      "title": "Music, Literature, Dance and Fashion",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/sharinghistory-music-literature-dance-and-fashion/",
+      "repository": "https://github.com/museumwithnofrontiers/sharinghistory-music-literature-dance-and-fashion"
     },
     {
       "slug": "islamicart-pilgrimage",
@@ -415,11 +471,25 @@
       "repository": "https://github.com/museumwithnofrontiers/islamicart-pilgrimage"
     },
     {
+      "slug": "sharinghistory-rediscovering-the-past",
+      "title": "Rediscovering the Past",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/sharinghistory-rediscovering-the-past/",
+      "repository": "https://github.com/museumwithnofrontiers/sharinghistory-rediscovering-the-past"
+    },
+    {
       "slug": "baroqueart-reformation",
       "title": "Reformation and Counter-Reformation",
       "kind": "minisite",
       "url": "https://museumwithnofrontiers.github.io/baroqueart-reformation/",
       "repository": "https://github.com/museumwithnofrontiers/baroqueart-reformation"
+    },
+    {
+      "slug": "sharinghistory-reforms-and-social-changes",
+      "title": "Reforms and Social Changes",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/sharinghistory-reforms-and-social-changes/",
+      "repository": "https://github.com/museumwithnofrontiers/sharinghistory-reforms-and-social-changes"
     },
     {
       "slug": "islamicart-the-abbasids",
@@ -490,6 +560,13 @@
       "kind": "minisite",
       "url": "https://museumwithnofrontiers.github.io/islamicart-the-umayyads/",
       "repository": "https://github.com/museumwithnofrontiers/islamicart-the-umayyads"
+    },
+    {
+      "slug": "sharinghistory-travelling",
+      "title": "Travelling",
+      "kind": "minisite",
+      "url": "https://museumwithnofrontiers.github.io/sharinghistory-travelling/",
+      "repository": "https://github.com/museumwithnofrontiers/sharinghistory-travelling"
     },
     {
       "slug": "baroqueart-travelling-and-exotism",
