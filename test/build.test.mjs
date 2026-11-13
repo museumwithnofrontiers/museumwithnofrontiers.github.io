@@ -51,3 +51,12 @@ test('refuses an empty list or a site with a missing field', () => {
   assert.throws(() => validate({ sites: [] }), /no sites/)
   assert.throws(() => validate({ sites: [site('x', 'gallery', { title: '' })] }), /has no title/)
 })
+
+test('lists the search site alone, in a group of its own, first', () => {
+  const groups = groupSites([site('carpets', 'gallery'), site('search', 'search'), site('islamicart', 'standalone')])
+  assert.deepEqual(groups.map((g) => [g.heading, g.sites.map((s) => s.slug)]), [
+    ['Search', ['search']],
+    ['Virtual museums', ['islamicart']],
+    ['Galleries', ['carpets']],
+  ])
+})
