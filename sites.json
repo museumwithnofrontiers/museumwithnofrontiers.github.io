@@ -2,6 +2,13 @@
   "owner": "museumwithnofrontiers",
   "sites": [
     {
+      "slug": "search",
+      "title": "Search",
+      "kind": "search",
+      "url": "https://museumwithnofrontiers.github.io/search/",
+      "repository": "https://github.com/museumwithnofrontiers/search"
+    },
+    {
       "slug": "baroqueart",
       "title": "Discover Baroque Art",
       "kind": "standalone",
@@ -23,6 +30,13 @@
       "repository": "https://github.com/museumwithnofrontiers/explore"
     },
     {
+      "slug": "publications",
+      "title": "MWNF Books",
+      "kind": "standalone",
+      "url": "https://museumwithnofrontiers.github.io/publications/",
+      "repository": "https://github.com/museumwithnofrontiers/publications"
+    },
+    {
       "slug": "galleries",
       "title": "MWNF Galleries",
       "kind": "standalone",
@@ -30,15 +44,8 @@
       "repository": "https://github.com/museumwithnofrontiers/galleries"
     },
     {
-      "slug": "publications",
-      "title": "MWNF Publications",
-      "kind": "standalone",
-      "url": "https://museumwithnofrontiers.github.io/publications/",
-      "repository": "https://github.com/museumwithnofrontiers/publications"
-    },
-    {
       "slug": "travels",
-      "title": "MWNF Travels",
+      "title": "MWNF Travel",
       "kind": "standalone",
       "url": "https://museumwithnofrontiers.github.io/travels/",
       "repository": "https://github.com/museumwithnofrontiers/travels"
