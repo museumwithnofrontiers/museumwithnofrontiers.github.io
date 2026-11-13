@@ -30,6 +30,20 @@
       "repository": "https://github.com/museumwithnofrontiers/galleries"
     },
     {
+      "slug": "publications",
+      "title": "MWNF Publications",
+      "kind": "standalone",
+      "url": "https://museumwithnofrontiers.github.io/publications/",
+      "repository": "https://github.com/museumwithnofrontiers/publications"
+    },
+    {
+      "slug": "travels",
+      "title": "MWNF Travels",
+      "kind": "standalone",
+      "url": "https://museumwithnofrontiers.github.io/travels/",
+      "repository": "https://github.com/museumwithnofrontiers/travels"
+    },
+    {
       "slug": "sharinghistory",
       "title": "Sharing History",
       "kind": "standalone",
