@@ -22,7 +22,10 @@ export const LINKS = {
 }
 
 // Page order of the groups; a kind not listed here goes under "Other websites".
+// The global search (inventory-app M15) is a site like the others, alone in a
+// group of its own, first.
 export const GROUPS = [
+  { kind: 'search', heading: 'Search' },
   { kind: 'standalone', heading: 'Virtual museums' },
   { kind: 'exhibition', heading: 'Exhibitions' },
   { kind: 'gallery', heading: 'Galleries' },
