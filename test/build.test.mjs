@@ -60,3 +60,9 @@ test('lists the search site alone, in a group of its own, first', () => {
     ['Galleries', ['carpets']],
   ])
 })
+
+test('puts a chip to the search site in the header, and none without one', () => {
+  const html = renderPage({ sites: [site('search', 'search'), site('carpets', 'gallery')] })
+  assert.match(html, /<nav>\s*<a class="chip" href="https:\/\/museumwithnofrontiers\.github\.io\/search\/">/)
+  assert.ok(!renderPage({ sites: [site('carpets', 'gallery')] }).includes('class="chip"'))
+})
