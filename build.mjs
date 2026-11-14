@@ -69,6 +69,17 @@ export function groupSites(sites) {
   return groups.filter((g) => g.sites.length > 0)
 }
 
+/**
+ * A chip in the header that opens the global search, taken from the site of
+ * kind `search` in sites.json; nothing when there is none.
+ */
+export function renderSearchChip(sites) {
+  const search = sites.find((s) => s.kind === 'search')
+  if (!search) return ''
+  return `
+        <a class="chip" href="${escapeHtml(search.url)}"><svg aria-hidden="true" viewBox="0 0 24 24" width="16" height="16"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="m16.5 16.5 4.5 4.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>Search all our websites</a>`
+}
+
 function renderSite(site) {
   const address = site.url.replace(/^https:\/\//, '').replace(/\/$/, '')
   return `        <li class="site">
@@ -104,7 +115,7 @@ export function renderPage(data) {
     <div>
       <h1>Museum With No Frontiers</h1>
       <p class="intro">${escapeHtml(INTRO)}</p>
-      <nav>
+      <nav>${renderSearchChip(sites)}
         <a href="${escapeHtml(LINKS.about)}">About us on GitHub</a>
         <a href="${escapeHtml(LINKS.license)}">License</a>
       </nav>
